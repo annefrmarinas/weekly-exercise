@@ -1,1 +1,1 @@
-console.log('This is the main controller');
+console.log('This is the alpha controller');
